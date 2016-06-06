@@ -16,9 +16,9 @@ description: >-
   in particular catches my eye. Not so much her, but the art portfolio she
   carries, perhaps containing aspirations of becoming the next Frida or Cecilia
   Beaux. And with this my thoughts drift to the past 3 years and how they led me
-  here. 
-datePublished: '2016-06-06T17:02:50.769Z'
-dateModified: '2016-06-06T16:29:48.049Z'
+  here.
+datePublished: '2016-06-06T17:03:39.447Z'
+dateModified: '2016-06-06T17:02:56.031Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-chris-kline.md
