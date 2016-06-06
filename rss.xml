@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Christopher Kline]]></title>
         <description><![CDATA[Christopher Kline]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christopherkline/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 15:52:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 16:09:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopherkline/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b997750-d782-4487-b1e2-68acc828a379.jpg">]]></description>
+            <link>https://thegrid.ai/christopherkline/goat/index.html</link>
+            <guid isPermaLink="false">77784401-ec9f-402d-bf29-c09ad157ae67</guid>
+            <pubDate>Mon, 06 Jun 2016 15:59:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Chris Kline</p>]]></description>
-            <link>undefinedchris-kline/index.html</link>
+            <link>https://thegrid.ai/christopherkline/chris-kline/index.html</link>
             <guid isPermaLink="false">a00bd7ab-e166-4005-96d6-b4e884efdedc</guid>
             <pubDate>Mon, 06 Jun 2016 15:52:18 GMT</pubDate>
         </item>
