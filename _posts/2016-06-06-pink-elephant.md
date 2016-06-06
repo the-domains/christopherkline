@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Pink Elephant
-datePublished: '2016-06-06T16:18:30.871Z'
-dateModified: '2016-06-06T15:59:17.229Z'
+datePublished: '2016-06-06T16:20:55.959Z'
+dateModified: '2016-06-06T16:20:03.237Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-pink-elephant.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-pink-elephant.md
 url: pink-elephant/index.html
 _type: Article
 
