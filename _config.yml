@@ -1,7 +1,7 @@
 name: Christopher Kline
 favicon: null
-layout_spectrum: 0.695
-typography_spectrum: 0.989
+layout_spectrum: 0.9993
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#923f61'
     - '#441c32'
     - '#c65d8c'
-  brandStrength: 0.21321698976680636
-  lightness: 0.3177028498612344
+  brandStrength: 0.625
+  lightness: 0.4375
   saturation: 0.9730966326314956
   rhythmicContrast: 0.7828332229983062
 purpose: []
