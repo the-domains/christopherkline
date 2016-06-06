@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Chris Kline
-datePublished: '2016-06-06T16:19:54.572Z'
-dateModified: '2016-06-06T16:19:02.064Z'
+description: Christopher Kline
+datePublished: '2016-06-06T16:22:48.816Z'
+dateModified: '2016-06-06T16:22:41.742Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-chris-kline.md
@@ -17,7 +17,7 @@ url: chris-kline/index.html
 _type: Article
 
 ---
-Chris Kline
+Christopher Kline
 
 The year is 2002, I am early for class so I take this opportunity and sit in a window allowing my back to absorb the sun's warmth. The heat relaxes my anxieties as to what lies inside the envelope clenched in my hands. My fingers run along the edges of the letter I received from the U.S Patent office in today's mail. Feeling a bit trepid, but also just wanting to get this over with, I insert a finger between the flap and the back of the envelope while looking around Arcadia University's campus. Many students come and go, but one in particular catches my eye. Not so much her, but the art portfolio she carries, perhaps containing aspirations of becoming the next Frida or Cecilia Beaux. And with this my thoughts drift to the past 3 years and how they led me here.
 
