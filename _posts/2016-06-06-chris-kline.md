@@ -17,8 +17,8 @@ description: >-
   carries, perhaps containing aspirations of becoming the next Frida or Cecilia
   Beaux. And with this my thoughts drift to the past 3 years and how they led me
   here.
-datePublished: '2016-06-06T17:03:39.447Z'
-dateModified: '2016-06-06T17:02:56.031Z'
+datePublished: '2016-06-06T17:10:07.076Z'
+dateModified: '2016-06-06T17:10:03.386Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-chris-kline.md
