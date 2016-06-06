@@ -1,20 +1,22 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Pink Elephant
-datePublished: '2016-06-06T16:20:55.959Z'
-dateModified: '2016-06-06T16:20:03.237Z'
+datePublished: '2016-06-06T17:01:36.168Z'
+dateModified: '2016-06-06T16:28:53.340Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-06-pink-elephant.md
 authors: []
 publisher: null
 starred: false
 url: pink-elephant/index.html
-_type: Article
+_type: Blurb
 
 ---
 Pink Elephant
