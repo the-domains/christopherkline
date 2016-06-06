@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-06T15:20:12.782Z'
-dateModified: '2016-06-06T15:18:54.335Z'
-title: ''
+datePublished: '2016-06-06T15:23:55.114Z'
+dateModified: '2016-06-06T15:23:22.895Z'
+title: Goat
 author:
   - name: ''
     url: ''
@@ -21,9 +21,15 @@ _type: Blurb
 ---
 Goat
 
-Someone was explaining to me that a lot of artists struggle with the human figure. I don't know what the truth is, but I do know when I begin to hear sounds and words my mind immediately starts making pictures. And in doing so I bring you the inspiration behind the conversation this day.
+Since co-founding "Eric & Christopher" I have had wonderful opportunities to meet lots of loving animals and the individuals, as well as, the groups who care for them.. Such was the case with this goat I met and photographed at Chenoa Manor in Avondale, PA. All the 200+ animals on the farm are rescue animals and cared for by volunteers. There are no paid staff at Chenoa. The love and care for these animals and our natural environment at Chenoa Manor rebonds our often disconnect with nature and our true energies.
 
-I make of it this: Each ripple represents an idea that I've hoarded and collected. The memories of thoughts spread from my mind. Patterned outward. As if it has all been filed away and being released with order. The water will settle and eventuallly calm, not unlike the mind. It's just a pleasant place to be and a time to reflect "Ripples and Memories"
+A little about Chenoa Manor:
+
+"Chenoa Manor's primary mission is two-fold, to serve our animal residents as well as the youth who seek to be here. That mission embodies a sense of unity and respect among the youth, the animals, and the surrounding environment, including the trees, plants, bodies of water and the land itself.
+
+The importance of the youth component is to instill a sense of compassion and respect toward other individuals through positive interaction with animals & the environment. If a young person can develop a relationship with an animal resident based upon mutual trust, patience, and understanding, then those same qualities may be carried over to the teen's relationships with other individuals."
+
+Take a moment to visit Chenoa Manor's website to learn more about their animal sanctuary:[www.chenoamanor.org][0]
 
 .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a040984-846f-462a-ae1a-c22660f0d72d.jpg)
@@ -85,3 +91,5 @@ Someone was explaining to me that a lot of artists struggle with the human figur
 
 I make of it this: Each ripple represents an idea that I've hoarded and collected. The memories of thoughts spread from my mind. Patterned outward. As if it has all been filed away and being released with order. The water will settle and eventuallly calm, not unlike the mind. It's just a pleasant place to be and a time to reflect "Ripples and Memories"
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21253d69-6daf-4acc-84ff-64f0aa6abe8a.jpg)
+
+[0]: http://christopherkline.net/descriptions_of_art/www.chenoamanor.org
