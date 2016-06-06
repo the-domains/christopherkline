@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Christopher Kline
-datePublished: '2016-06-06T16:22:48.816Z'
-dateModified: '2016-06-06T16:22:41.742Z'
+datePublished: '2016-06-06T16:23:56.466Z'
+dateModified: '2016-06-06T16:22:56.299Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-chris-kline.md
