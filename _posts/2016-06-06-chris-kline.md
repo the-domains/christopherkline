@@ -1,24 +1,33 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: Christopher Kline
-datePublished: '2016-06-06T16:23:56.466Z'
-dateModified: '2016-06-06T16:22:56.299Z'
+description: >-
+  The year is 2002, I am early for class so I take this opportunity and sit in a
+  window allowing my back to absorb the sun’s warmth. The heat relaxes my
+  anxieties as to what lies inside the envelope clenched in my hands. My fingers
+  run along the edges of the letter I received from the U.S Patent office in
+  today’s mail. Feeling a bit trepid, but also just wanting to get this over
+  with, I insert a finger between the flap and the back of the envelope while
+  looking around Arcadia University’s campus. Many students come and go, but one
+  in particular catches my eye. Not so much her, but the art portfolio she
+  carries, perhaps containing aspirations of becoming the next Frida or Cecilia
+  Beaux. And with this my thoughts drift to the past 3 years and how they led me
+  here. 
+datePublished: '2016-06-06T17:02:50.769Z'
+dateModified: '2016-06-06T16:29:48.049Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-06-chris-kline.md
 authors: []
 publisher: null
 starred: true
-url: chris-kline/index.html
-_type: Article
+_type: Blurb
 
 ---
-Christopher Kline
-
 The year is 2002, I am early for class so I take this opportunity and sit in a window allowing my back to absorb the sun's warmth. The heat relaxes my anxieties as to what lies inside the envelope clenched in my hands. My fingers run along the edges of the letter I received from the U.S Patent office in today's mail. Feeling a bit trepid, but also just wanting to get this over with, I insert a finger between the flap and the back of the envelope while looking around Arcadia University's campus. Many students come and go, but one in particular catches my eye. Not so much her, but the art portfolio she carries, perhaps containing aspirations of becoming the next Frida or Cecilia Beaux. And with this my thoughts drift to the past 3 years and how they led me here.
 
 April 1999, I'm halfway through my 10th consecutive 15 hour shift manually screen printing 10,000 t-shirts in my parents' basement. The shirts will be used for a series of events to be sponsored by the Vietnam Veterans Association. Each shirt receives a 6 color imprint on both the front and the back. The order also requires 3,000 sweatshirts and 4,000 embroidered hats. My tired arms pull the squeegee, lift the screen and wipe the sweat from my forehead. A process I need to repeat 120,000 times over the next 25 days if I'm to finish on time. It's my largest order to date and the bill on this is equal to my entire 1998 sales. I hire 6 new employees to help print and load shirts while I oversee the entire project, meet my other clients' needs and continue my 15 hour shifts pulling a squeegee with little sleep in between. It is hot, it is humid and I am exhausted just thinking I am not even close to halfway done. Fatigued as I am, about the only thing that is keeping me going is lying on the table next to my inks. A sponsorship contract for the Vans Warped Tour needs my review, signature, and funds. The deadline for the contract is just a week away. I am still slightly apprehensive about the dollar amount attached to this commitment, but on the other hand The Vans Warped Tour will expose my company "Kanika" (pronounced kah-nee-kah) to over a million people within my target audience in a period of just 8 weeks this coming summer. Unable to clearly think this through my mind begins obsessing over a recent idea to create a new device and method for tensioning a silk screen that will increase the work flow efficiency within the entire screen printing industry. I must put that on hold until the Veterans order is complete. When will I have the time to get back to it? My mind, like the machine I stand in front of, is going in circles. I tune back in to the pull, lift, and wipe process, realizing the vast opportunities that wait on the horizon. I allow myself to pause just thinking about Kanika's recent development. Smiling I sign the Vans contract and place the check in the mail.
